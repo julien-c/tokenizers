@@ -1,6 +1,6 @@
 {
   "name": "tokenizers",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "main": "index.js",
   "author": "Anthony Moi <m.anthony.moi@gmail.com>",
   "repository": {
